@@ -1,8 +1,8 @@
 //Ejercicio 2
-//Ejercio Base Original
+//Ejercicio Base Original
 let suma = function(a, b){
     return a + b
     }
 
-//Ejercio Modificado
+//Ejercicio Modificado
 let sumaArrow = (a, b) => a + b;
